@@ -1,9 +1,9 @@
-### Hi there, I'm Nicholas Anthony S - aka [nicholasAS][website] 👋
+### Hi there, I'm Nicholas Anthony S - aka [nicholasAS][gitlab] 👋
 
 
-## I'm a Student, Mobile Developer, FullStack Developer, and Teacher!
+## I'm a Student, Mobile Developer, FullStack Developer!
 
-- 🔭 I’m currently working on a [Roketin SpaceR][website]!
+- 🔭 I’m currently working on a [Roketin SpaceR][spacer] for Roketin, [Golang Body Parser][bodyparser] for Telkom,  [BangkuMentor Website][bangkumentor] for BangkuMentor,
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -76,20 +76,6 @@
 <br />
 <br />
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Build A Goal Manager React App w/ Hooks & Airtable API | styled-components | embold.io Code Quality](https://www.youtube.com/watch?v=FEoEvSmtmPQ)
-- [UPDATE: VS Code July 2020 Stable Release | Settings Sync | Browser Debugging](https://www.youtube.com/watch?v=4adVM33GAlA)
-- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
-- [SPEED RUN: Build a CRUD API with PrestoAPI & MongoDB Atlas in 9 Minutes! Then Airbnb Clone!](https://www.youtube.com/watch?v=6C45qCt41VY)
-- [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/watch?v=TpAwggQJPUQ)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
@@ -106,13 +92,17 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="nicholasanthonys Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nicholasanthonys&show_icons=true&hide_border=true" />
 
 </details>
 
 [facebook]: https://facebook.com/nicholasanthonysuhartono
-[website]: https://codeSTACKr.com
+[gitlab]: https://gitlab.com/nicholasAS
 [twitter]: https://twitter.com/nichoanthonys
 [instagram]: https://instagram.com/nicholasanthony_s
 [linkedin]: https://linkedin.com/in/nicholasanthonys
 [youtube]: https://youtube.com/channel/UCGbKM8D5G7SW3sFRYMTUYrg
+
+[spacer]:https://gitlab.com/roketin-space/hr-mobile
+[bangkumentor]: https://gitlab.com/nicholasAS/bangkumentor-frontend
+[bodyparser]: https://github.com/nicholasanthonys/Golang-Body-Parser
