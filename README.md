@@ -92,12 +92,12 @@
 </details>
 
 --- 
-<details>
+
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="nicholasanthonys Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nicholasanthonys&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [facebook]: https://facebook.com/nicholasanthonysuhartono
 [gitlab]: https://gitlab.com/nicholasAS
