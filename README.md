@@ -1,5 +1,6 @@
 ### Hi there, I'm Nicholas Anthony S - aka [nicholasAS][gitlab] 👋
-
+#### Visit count : 
+![Visitor Count](https://profile-counter.glitch.me/nicholasanthonys/count.svg)
 
 ## I'm a Student, Mobile Developer, FullStack Developer!
 
