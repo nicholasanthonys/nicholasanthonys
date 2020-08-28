@@ -14,6 +14,7 @@
 [<img src="https://spotify-readme.nicholasanthonys.vercel.app/api/spotify-playing" alt="Spotify Spotify Playing" width="350" />](https://open.spotify.com/user/21k4om4v3av5rjqzbbbi2f6vi)
 
 ### Connect with me:
+[<img align="left" alt="Nicholas-Gitlab | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 [<img align="left" alt="Nicholas-Linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Nicholas-Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Nicholas-Facebook | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
