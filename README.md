@@ -76,28 +76,24 @@
 <br />
 <br />
 
---- 
+
+### Github Stats:
+<img align="center"  alt="nicholasanthonys Github Stats" src="https://github-readme-stats.nicholasanthonys.vercel.app/api?username=nicholasanthonys&show_icons=true&hide_border=true&theme=radical" />
+
+---
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com//bizz84/nested-navigation-demo-flutter/pull/12) in [bizz84/nested-navigation-demo-flutter](https://github.com//bizz84/nested-navigation-demo-flutter)
-2. ❗️ Opened issue [#4236](https://github.com//inspireui/support/issues/4236) in [inspireui/support](https://github.com//inspireui/support)
-3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
+  <!--START_SECTION:activity-->
+  1. 💪 Opened PR [#12](https://github.com//bizz84/nested-navigation-demo-flutter/pull/12) in [bizz84/nested-navigation-demo-flutter](https://github.com//bizz84/nested-navigation-demo-flutter)
+  2. ❗️ Opened issue [#4236](https://github.com//inspireui/support/issues/4236) in [inspireui/support](https://github.com//inspireui/support)
+  3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+  4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+  5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+  <!--END_SECTION:activity-->
 
 </details>
-
---- 
-
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="nicholasanthonys Github Stats" src="https://github-readme-stats.nicholasanthonys.vercel.app/api?username=nicholasanthonys&show_icons=true&hide_border=true&theme=radical" />
-
-
 
 [facebook]: https://facebook.com/nicholasanthonysuhartono
 [gitlab]: https://gitlab.com/nicholasAS
