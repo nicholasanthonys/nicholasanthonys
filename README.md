@@ -95,7 +95,7 @@
 
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="nicholasanthonys Github Stats" src="https://github-readme-stats.nicholasanthonys.vercel.app/api?username=nicholasanthonys&show_icons=true&hide_border=true" />
+  <img align="left" alt="nicholasanthonys Github Stats" src="https://github-readme-stats.nicholasanthonys.vercel.app/api?username=nicholasanthonys&show_icons=true&hide_border=true&theme=radical" />
 
 
 
