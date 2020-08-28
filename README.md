@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Spotify Playing" width="350" />](https://open.spotify.com/user/21k4om4v3av5rjqzbbbi2f6vi)
 
 ### Connect with me:
 [<img align="left" alt="Nicholas-Linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -95,7 +95,7 @@
 
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="nicholasanthonys Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nicholasanthonys&show_icons=true&hide_border=true" />
+  <img align="left" alt="nicholasanthonys Github Stats" src="https://github-readme-stats.nicholasanthonys.vercel.app/api?username=nicholasanthonys&show_icons=true&hide_border=true" />
 
 
 
