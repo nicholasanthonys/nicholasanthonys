@@ -79,12 +79,9 @@
 
 
 ### Github Stats:
-<div style="display:inline">
-  <img align="center"  alt="nicholasanthonys Github Stats" src="https://github-readme-stats.nicholasanthonys.vercel.app/api?username=nicholasanthonys&show_icons=true&hide_border=true&theme=radical" />
-</div>
-<div style="display:inline">
-  <img align="center"  alt="nicholasanthonys Github Stats" src="https://github-readme-stats.nicholasanthonys.vercel.app/api/top-langs/?username=nicholasanthonys&layout=compact&theme=radical" />
-</div>
+
+  <img align="center" alt="nicholasanthonys Github Stats" src="https://github-readme-stats.nicholasanthonys.vercel.app/api?username=nicholasanthonys&show_icons=true&include_all_commits=true&hide_border=true&theme=radical" />   
+  <img align="center" alt="nicholasanthonys Github Stats" src="https://github-readme-stats.nicholasanthonys.vercel.app/api/top-langs/?username=nicholasanthonys&layout=compact&theme=radical" />
 
 <br>
 <br>
