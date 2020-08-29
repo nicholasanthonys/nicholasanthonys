@@ -79,7 +79,9 @@
 
 
 ### Github Stats:
-<img align="center"  alt="nicholasanthonys Github Stats" src="https://github-readme-stats.nicholasanthonys.vercel.app/api?username=nicholasanthonys&show_icons=true&hide_border=true&theme=radical" />
+<img align="left"  alt="nicholasanthonys Github Stats" src="https://github-readme-stats.nicholasanthonys.vercel.app/api?username=nicholasanthonys&show_icons=true&hide_border=true&theme=radical" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasanthonys&layout=compact&theme=radical&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
