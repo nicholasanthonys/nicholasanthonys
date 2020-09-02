@@ -4,7 +4,7 @@
 
 ## I'm a Student, Mobile Developer, FullStack Developer!
 
-- 🔭 I’m currently working on a [Roketin SpaceR][spacer] for Roketin, [Golang Body Parser][bodyparser] for Telkom,  [BangkuMentor Website][bangkumentor] for BangkuMentor,
+- 🔭 I’m currently working on a [Roketin SpaceR][spacer], [Golang Body Parser][bodyparser],  [BangkuMentor Website][bangkumentor] and active in GITLAB
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
