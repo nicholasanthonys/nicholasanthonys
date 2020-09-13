@@ -85,11 +85,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com//bizz84/nested-navigation-demo-flutter/pull/12) in [bizz84/nested-navigation-demo-flutter](https://github.com//bizz84/nested-navigation-demo-flutter)
-2. ❗️ Opened issue [#4236](https://github.com//inspireui/support/issues/4236) in [inspireui/support](https://github.com//inspireui/support)
-  1. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-  2. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-  3. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🎉 Merged PR [#2](https://github.com//nicholasanthonys/Golang-Body-Parser/pull/2) in [nicholasanthonys/Golang-Body-Parser](https://github.com//nicholasanthonys/Golang-Body-Parser)
+2. 💪 Opened PR [#2](https://github.com//nicholasanthonys/Golang-Body-Parser/pull/2) in [nicholasanthonys/Golang-Body-Parser](https://github.com//nicholasanthonys/Golang-Body-Parser)
+3. 🎉 Merged PR [#1](https://github.com//nicholasanthonys/Golang-Body-Parser/pull/1) in [nicholasanthonys/Golang-Body-Parser](https://github.com//nicholasanthonys/Golang-Body-Parser)
+4. 💪 Opened PR [#1](https://github.com//nicholasanthonys/Golang-Body-Parser/pull/1) in [nicholasanthonys/Golang-Body-Parser](https://github.com//nicholasanthonys/Golang-Body-Parser)
+5. 💪 Opened PR [#12](https://github.com//bizz84/nested-navigation-demo-flutter/pull/12) in [bizz84/nested-navigation-demo-flutter](https://github.com//bizz84/nested-navigation-demo-flutter)
   <!--END_SECTION:activity-->
 
 </details>
