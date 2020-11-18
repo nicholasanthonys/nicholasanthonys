@@ -85,11 +85,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/2) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
-2. 💪 Opened PR [#2](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/2) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
-3. 🎉 Merged PR [#1](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/1) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
-4. 💪 Opened PR [#1](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/1) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
-5. 💪 Opened PR [#12](https://github.com/bizz84/nested-navigation-demo-flutter/pull/12) in [bizz84/nested-navigation-demo-flutter](https://github.com/bizz84/nested-navigation-demo-flutter)
+1. 🎉 Merged PR [#2](https://github.com/nicholasanthonys/HuffmanCoding/pull/2) in [nicholasanthonys/HuffmanCoding](https://github.com/nicholasanthonys/HuffmanCoding)
+2. 💪 Opened PR [#2](https://github.com/nicholasanthonys/HuffmanCoding/pull/2) in [nicholasanthonys/HuffmanCoding](https://github.com/nicholasanthonys/HuffmanCoding)
+3. 🎉 Merged PR [#1](https://github.com/nicholasanthonys/HuffmanCoding/pull/1) in [nicholasanthonys/HuffmanCoding](https://github.com/nicholasanthonys/HuffmanCoding)
+4. 💪 Opened PR [#1](https://github.com/nicholasanthonys/HuffmanCoding/pull/1) in [nicholasanthonys/HuffmanCoding](https://github.com/nicholasanthonys/HuffmanCoding)
+5. 🎉 Merged PR [#2](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/2) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
   <!--END_SECTION:activity-->
 
 </details>
