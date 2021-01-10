@@ -85,11 +85,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/nicholasanthonys/body-parser-backend/pull/2) in [nicholasanthonys/body-parser-backend](https://github.com/nicholasanthonys/body-parser-backend)
-2. 💪 Opened PR [#2](https://github.com/nicholasanthonys/body-parser-backend/pull/2) in [nicholasanthonys/body-parser-backend](https://github.com/nicholasanthonys/body-parser-backend)
-3. 🎉 Merged PR [#1](https://github.com/nicholasanthonys/body-parser-frontend/pull/1) in [nicholasanthonys/body-parser-frontend](https://github.com/nicholasanthonys/body-parser-frontend)
-4. 💪 Opened PR [#1](https://github.com/nicholasanthonys/body-parser-frontend/pull/1) in [nicholasanthonys/body-parser-frontend](https://github.com/nicholasanthonys/body-parser-frontend)
-5. 🎉 Merged PR [#1](https://github.com/nicholasanthonys/body-parser-backend/pull/1) in [nicholasanthonys/body-parser-backend](https://github.com/nicholasanthonys/body-parser-backend)
+1. ❗️ Opened issue [#51](https://github.com/jinkin1995/vue-json-edit/issues/51) in [jinkin1995/vue-json-edit](https://github.com/jinkin1995/vue-json-edit)
+2. 🎉 Merged PR [#2](https://github.com/nicholasanthonys/body-parser-backend/pull/2) in [nicholasanthonys/body-parser-backend](https://github.com/nicholasanthonys/body-parser-backend)
+3. 💪 Opened PR [#2](https://github.com/nicholasanthonys/body-parser-backend/pull/2) in [nicholasanthonys/body-parser-backend](https://github.com/nicholasanthonys/body-parser-backend)
+4. 🎉 Merged PR [#1](https://github.com/nicholasanthonys/body-parser-frontend/pull/1) in [nicholasanthonys/body-parser-frontend](https://github.com/nicholasanthonys/body-parser-frontend)
+5. 💪 Opened PR [#1](https://github.com/nicholasanthonys/body-parser-frontend/pull/1) in [nicholasanthonys/body-parser-frontend](https://github.com/nicholasanthonys/body-parser-frontend)
   <!--END_SECTION:activity-->
 
 </details>
