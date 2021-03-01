@@ -85,11 +85,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/11) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
-2. 💪 Opened PR [#11](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/11) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
-3. 🎉 Merged PR [#11](https://github.com/nicholasanthonys/body-parser-backend/pull/11) in [nicholasanthonys/body-parser-backend](https://github.com/nicholasanthonys/body-parser-backend)
-4. 💪 Opened PR [#11](https://github.com/nicholasanthonys/body-parser-backend/pull/11) in [nicholasanthonys/body-parser-backend](https://github.com/nicholasanthonys/body-parser-backend)
-5. 🎉 Merged PR [#9](https://github.com/nicholasanthonys/body-parser-frontend/pull/9) in [nicholasanthonys/body-parser-frontend](https://github.com/nicholasanthonys/body-parser-frontend)
+1. 🎉 Merged PR [#12](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/12) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
+2. 💪 Opened PR [#12](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/12) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
+3. 🎉 Merged PR [#11](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/11) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
+4. 💪 Opened PR [#11](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/11) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
+5. 🎉 Merged PR [#11](https://github.com/nicholasanthonys/body-parser-backend/pull/11) in [nicholasanthonys/body-parser-backend](https://github.com/nicholasanthonys/body-parser-backend)
   <!--END_SECTION:activity-->
 
 </details>
