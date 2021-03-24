@@ -85,11 +85,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/nicholasanthonys/tubes-probabilias-statistika/pull/3) in [nicholasanthonys/tubes-probabilias-statistika](https://github.com/nicholasanthonys/tubes-probabilias-statistika)
-2. 🎉 Merged PR [#2](https://github.com/nicholasanthonys/tubes-probabilias-statistika/pull/2) in [nicholasanthonys/tubes-probabilias-statistika](https://github.com/nicholasanthonys/tubes-probabilias-statistika)
-3. 🎉 Merged PR [#1](https://github.com/nicholasanthonys/tubes-probabilias-statistika/pull/1) in [nicholasanthonys/tubes-probabilias-statistika](https://github.com/nicholasanthonys/tubes-probabilias-statistika)
-4. 🎉 Merged PR [#12](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/12) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
-5. 💪 Opened PR [#12](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/12) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
+1. 🎉 Merged PR [#4](https://github.com/nicholasanthonys/tubes-probabilias-statistika/pull/4) in [nicholasanthonys/tubes-probabilias-statistika](https://github.com/nicholasanthonys/tubes-probabilias-statistika)
+2. 🎉 Merged PR [#3](https://github.com/nicholasanthonys/tubes-probabilias-statistika/pull/3) in [nicholasanthonys/tubes-probabilias-statistika](https://github.com/nicholasanthonys/tubes-probabilias-statistika)
+3. 🎉 Merged PR [#2](https://github.com/nicholasanthonys/tubes-probabilias-statistika/pull/2) in [nicholasanthonys/tubes-probabilias-statistika](https://github.com/nicholasanthonys/tubes-probabilias-statistika)
+4. 🎉 Merged PR [#1](https://github.com/nicholasanthonys/tubes-probabilias-statistika/pull/1) in [nicholasanthonys/tubes-probabilias-statistika](https://github.com/nicholasanthonys/tubes-probabilias-statistika)
+5. 🎉 Merged PR [#12](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/12) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
   <!--END_SECTION:activity-->
 
 </details>
