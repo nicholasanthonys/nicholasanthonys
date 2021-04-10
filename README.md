@@ -85,11 +85,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/13) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
-2. 💪 Opened PR [#13](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/13) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
-3. 🎉 Merged PR [#5](https://github.com/nicholasanthonys/tubes-probabilias-statistika/pull/5) in [nicholasanthonys/tubes-probabilias-statistika](https://github.com/nicholasanthonys/tubes-probabilias-statistika)
-4. 🎉 Merged PR [#4](https://github.com/nicholasanthonys/tubes-probabilias-statistika/pull/4) in [nicholasanthonys/tubes-probabilias-statistika](https://github.com/nicholasanthonys/tubes-probabilias-statistika)
-5. 🎉 Merged PR [#3](https://github.com/nicholasanthonys/tubes-probabilias-statistika/pull/3) in [nicholasanthonys/tubes-probabilias-statistika](https://github.com/nicholasanthonys/tubes-probabilias-statistika)
+1. ❗️ Opened issue [#41](https://github.com/diegoholiveira/jsonlogic/issues/41) in [diegoholiveira/jsonlogic](https://github.com/diegoholiveira/jsonlogic)
+2. 🎉 Merged PR [#13](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/13) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
+3. 💪 Opened PR [#13](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/13) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
+4. 🎉 Merged PR [#5](https://github.com/nicholasanthonys/tubes-probabilias-statistika/pull/5) in [nicholasanthonys/tubes-probabilias-statistika](https://github.com/nicholasanthonys/tubes-probabilias-statistika)
+5. 🎉 Merged PR [#4](https://github.com/nicholasanthonys/tubes-probabilias-statistika/pull/4) in [nicholasanthonys/tubes-probabilias-statistika](https://github.com/nicholasanthonys/tubes-probabilias-statistika)
   <!--END_SECTION:activity-->
 
 </details>
