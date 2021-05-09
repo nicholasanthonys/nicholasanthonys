@@ -85,11 +85,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#41](https://github.com/diegoholiveira/jsonlogic/issues/41) in [diegoholiveira/jsonlogic](https://github.com/diegoholiveira/jsonlogic)
-2. 🗣 Commented on [#41](https://github.com/diegoholiveira/jsonlogic/issues/41) in [diegoholiveira/jsonlogic](https://github.com/diegoholiveira/jsonlogic)
-3. ❗️ Opened issue [#41](https://github.com/diegoholiveira/jsonlogic/issues/41) in [diegoholiveira/jsonlogic](https://github.com/diegoholiveira/jsonlogic)
-4. 🎉 Merged PR [#13](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/13) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
-5. 💪 Opened PR [#13](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/13) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
+1. 🎉 Merged PR [#1](https://github.com/nicholasanthonys/single-middleware-frontend/pull/1) in [nicholasanthonys/single-middleware-frontend](https://github.com/nicholasanthonys/single-middleware-frontend)
+2. 💪 Opened PR [#1](https://github.com/nicholasanthonys/single-middleware-frontend/pull/1) in [nicholasanthonys/single-middleware-frontend](https://github.com/nicholasanthonys/single-middleware-frontend)
+3. ❗️ Closed issue [#41](https://github.com/diegoholiveira/jsonlogic/issues/41) in [diegoholiveira/jsonlogic](https://github.com/diegoholiveira/jsonlogic)
+4. 🗣 Commented on [#41](https://github.com/diegoholiveira/jsonlogic/issues/41) in [diegoholiveira/jsonlogic](https://github.com/diegoholiveira/jsonlogic)
+5. ❗️ Opened issue [#41](https://github.com/diegoholiveira/jsonlogic/issues/41) in [diegoholiveira/jsonlogic](https://github.com/diegoholiveira/jsonlogic)
   <!--END_SECTION:activity-->
 
 </details>
