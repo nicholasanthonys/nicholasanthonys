@@ -85,11 +85,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/14) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
-2. 💪 Opened PR [#14](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/14) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
-3. 🎉 Merged PR [#1](https://github.com/nicholasanthonys/single-middleware-frontend/pull/1) in [nicholasanthonys/single-middleware-frontend](https://github.com/nicholasanthonys/single-middleware-frontend)
-4. 💪 Opened PR [#1](https://github.com/nicholasanthonys/single-middleware-frontend/pull/1) in [nicholasanthonys/single-middleware-frontend](https://github.com/nicholasanthonys/single-middleware-frontend)
-5. ❗️ Closed issue [#41](https://github.com/diegoholiveira/jsonlogic/issues/41) in [diegoholiveira/jsonlogic](https://github.com/diegoholiveira/jsonlogic)
+1. 🎉 Merged PR [#15](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/15) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
+2. 🗣 Commented on [#15](https://github.com/nicholasanthonys/Golang-Body-Parser/issues/15) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
+3. 💪 Opened PR [#15](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/15) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
+4. 🎉 Merged PR [#14](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/14) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
+5. 💪 Opened PR [#14](https://github.com/nicholasanthonys/Golang-Body-Parser/pull/14) in [nicholasanthonys/Golang-Body-Parser](https://github.com/nicholasanthonys/Golang-Body-Parser)
   <!--END_SECTION:activity-->
 
 </details>
