@@ -4,11 +4,9 @@
 
 ## I'm a Student, Mobile Developer, FullStack Developer!
 
-- 🔭 I’m currently working on a [Roketin SpaceR][spacer], [Golang Body Parser][bodyparser] and active in GITLAB
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar
+
 
 ### Spotify Playing 🎧
 [<img src="https://spotify-readme.nicholasanthonys.vercel.app/api/spotify-playing" alt="Spotify Spotify Playing" width="350" />](https://open.spotify.com/user/21k4om4v3av5rjqzbbbi2f6vi)
