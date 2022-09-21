@@ -2,7 +2,7 @@
 #### Visitor count : 
 ![Visitor Count](https://profile-counter.glitch.me/nicholasanthonys/count.svg)
 
-## I'm a Student, Mobile Developer, FullStack Developer!
+## I'm a Full Stack Developer!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
