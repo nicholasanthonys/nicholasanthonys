@@ -1,6 +1,5 @@
-### Hi there, I'm Nicholas Anthony S - aka [nicholasAS][gitlab] 👋
-#### Visitor count : 
-![Visitor Count](https://profile-counter.glitch.me/nicholasanthonys/count.svg)
+### Hi there, I'm Nicholas Anthony S 
+
 
 ## Software Engineer
 <br />
