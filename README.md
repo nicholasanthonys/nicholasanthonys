@@ -2,23 +2,7 @@
 #### Visitor count : 
 ![Visitor Count](https://profile-counter.glitch.me/nicholasanthonys/count.svg)
 
-## I'm a Full Stack Developer but I can do Mobile Development too!
-
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
-
-
-### Spotify Playing 🎧
-[<img src="https://spotify-readme.nicholasanthonys.vercel.app/api/spotify-playing" alt="Spotify Spotify Playing" width="350" />](https://open.spotify.com/user/21k4om4v3av5rjqzbbbi2f6vi)
-
-### Connect with me:
-[<img align="left" alt="Nicholas-Gitlab | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
-[<img align="left" alt="Nicholas-Linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Nicholas-Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Nicholas-Facebook | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Nicholas-Youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Nicholas-Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
+## Software Engineer
 <br />
 
 ### Languages and Tools:
